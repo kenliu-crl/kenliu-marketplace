@@ -1,13 +1,13 @@
 {
+  "name": "kenliu-marketplace",
+  "owner": {
+    "name": "Ken Liu"
+  },
   "plugins": [
     {
       "name": "arnie",
       "description": "Arnold Schwarzenegger motivational coach agent — pep talks, accountability, and relentless positivity",
-      "source": {
-        "type": "github",
-        "repo": "kenliu-crl/kenliu-marketplace",
-        "directory": "plugins/arnie"
-      }
+      "source": "./plugins/arnie"
     }
   ]
 }
